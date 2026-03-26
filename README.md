@@ -3,6 +3,9 @@ RA:25000906
 
 
 
+
+
+
 1. Regras de Negócio (RN)
 As RNs definem o "como" o negócio funciona independentemente do software.
 RN01 - Venda de Controlados: Medicamentos controlados exigem obrigatoriamente a validação de um Farmacêutico e retenção de receita.
