@@ -1,4 +1,4 @@
-Aluno: Gabrielly Cristina dos Reis
+Aluna: Gabrielly Cristina dos Reis
 RA:25000906
 
 
