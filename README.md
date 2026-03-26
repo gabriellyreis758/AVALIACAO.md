@@ -17,7 +17,7 @@ RN05 - Fechamento de Caixa: O sistema não deve permitir a exclusão de registro
 <img width="606" height="799" alt="Captura de tela 2026-03-25 210318" src="https://github.com/user-attachments/assets/708fdd2d-790e-4502-bce2-d57d4d7a4bb7" />
 
 
-3. Requisitos Funcionais (RF)
+2. Requisitos Funcionais (RF)
 O que o sistema deve fazer.
 RF01: O sistema deve permitir o cadastro e pesquisa de produtos por código de barras, nome ou fabricante.
 RF02: O sistema deve registrar vendas à vista e a prazo.
@@ -40,7 +40,7 @@ RNF04 (Integridade): O sistema deve utilizar transações de banco de dados para
 
 <img width="677" height="436" alt="Captura de tela 2026-03-25 210536" src="https://github.com/user-attachments/assets/cd6dd78c-dac9-4d2f-8785-59278f7374ef" />
 
-5. Exemplo de Documentação de Caso de Uso (UC)
+4. Exemplo de Documentação de Caso de Uso (UC)
 UC01: Efetuar Venda
 Ator Principal: Atendente.
 Pré-condição: Usuário logado no sistema.
@@ -57,7 +57,7 @@ Fluxo Alternativo (Cliente Novo):
 <img width="674" height="755" alt="Captura de tela 2026-03-25 211909" src="https://github.com/user-attachments/assets/ea2015ca-bfab-47b4-821d-810251e487bc" />
 
 
-6. Exemplo de Diagrama de Atividade
+5. Exemplo de Diagrama de Atividade
 Para o caso de uso "Registrar Compra":
 Início
 Selecionar Fornecedor.
