@@ -6,9 +6,10 @@ RN03 - Venda a Prazo: Somente clientes com cadastro ativo e sem débitos atrasad
 RN04 - Atualização de Estoque: Toda entrada (compra) ou saída (venda/perda) deve atualizar o inventário em tempo real.
 RN05 - Fechamento de Caixa: O sistema não deve permitir a exclusão de registros de vendas finalizados, apenas cancelamentos com justificativa e perfil de Gerente.
 
-![Uploading avaliacao.png…]()
+<img width="606" height="799" alt="Captura de tela 2026-03-25 210318" src="https://github.com/user-attachments/assets/708fdd2d-790e-4502-bce2-d57d4d7a4bb7" />
 
-2. Requisitos Funcionais (RF)
+
+3. Requisitos Funcionais (RF)
 O que o sistema deve fazer.
 RF01: O sistema deve permitir o cadastro e pesquisa de produtos por código de barras, nome ou fabricante.
 RF02: O sistema deve registrar vendas à vista e a prazo.
@@ -19,7 +20,8 @@ RF06: O sistema deve gerar lançamentos automáticos em "Contas a Pagar" após a
 RF07: O sistema deve gerar lançamentos em "Contas a Receber" para vendas conveniadas.
 RF08: O sistema deve emitir relatórios de produtos que nunca foram vendidos (estoque parado).
 
-![Uploading diagrama.png…]()
+<img width="683" height="346" alt="Captura de tela 2026-03-25 210437" src="https://github.com/user-attachments/assets/fb462e74-5f32-45ff-976b-14cc677b95b4" />
+
 
 3. Requisitos Não Funcionais (RNF)
 Qualidades e restrições técnicas.
@@ -28,6 +30,7 @@ RNF02 (Disponibilidade): O sistema deve estar disponível 99% do tempo durante o
 RNF03 (Performance): A consulta de estoque entre unidades não deve exceder 2 segundos.
 RNF04 (Integridade): O sistema deve utilizar transações de banco de dados para garantir que a venda e a baixa no estoque ocorram simultaneamente.
 
+<img width="677" height="436" alt="Captura de tela 2026-03-25 210536" src="https://github.com/user-attachments/assets/cd6dd78c-dac9-4d2f-8785-59278f7374ef" />
 
 5. Exemplo de Documentação de Caso de Uso (UC)
 UC01: Efetuar Venda
