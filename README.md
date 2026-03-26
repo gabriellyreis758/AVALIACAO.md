@@ -54,6 +54,8 @@ O sistema registra a venda e emite o comprovante.
 Fluxo Alternativo (Cliente Novo):
 3a. Se o cliente não possuir cadastro, o atendente seleciona "Novo Cadastro" (<<extend>> UC: Cadastrar Cliente).
 
+<img width="674" height="755" alt="Captura de tela 2026-03-25 211909" src="https://github.com/user-attachments/assets/ea2015ca-bfab-47b4-821d-810251e487bc" />
+
 
 6. Exemplo de Diagrama de Atividade
 Para o caso de uso "Registrar Compra":
