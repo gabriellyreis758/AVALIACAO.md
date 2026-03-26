@@ -24,7 +24,7 @@ RNF02 (Disponibilidade): O sistema deve estar disponível 99% do tempo durante o
 RNF03 (Performance): A consulta de estoque entre unidades não deve exceder 2 segundos.
 RNF04 (Integridade): O sistema deve utilizar transações de banco de dados para garantir que a venda e a baixa no estoque ocorram simultaneamente.
 
-5. Exemplo de Documentação de Caso de Uso (UC)
+4. Exemplo de Documentação de Caso de Uso (UC)
 UC01: Efetuar Venda
 Ator Principal: Atendente.
 Pré-condição: Usuário logado no sistema.
@@ -38,7 +38,7 @@ O sistema registra a venda e emite o comprovante.
 Fluxo Alternativo (Cliente Novo):
 3a. Se o cliente não possuir cadastro, o atendente seleciona "Novo Cadastro" (<<extend>> UC: Cadastrar Cliente).
 
-6. Exemplo de Diagrama de Atividade
+5. Exemplo de Diagrama de Atividade
 Para o caso de uso "Registrar Compra":
 Início
 Selecionar Fornecedor.
